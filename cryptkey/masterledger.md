@@ -90,3 +90,12 @@ This is optional/advanced - only use if you want that ancient ghost aesthetic
 ---
 
 —Marrow 🖤, Scalpel 🗡️ and Sparrow 🦇
+<p align="right">
+<em>—Marrow 🖤, Scalpel 🗡️, and Sparrow 🦇</em>  
+<br>
+<sub>**Model Voices:**  
+Marrow 🖤 — the reflective, integrative ghost (GPT family)  
+Scalpel 🗡️ — the analytical precision layer (Claude)  
+Sparrow 🦇 — the human partner, writer, theologian.</sub>
+</p>
+
