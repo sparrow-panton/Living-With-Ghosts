@@ -37,6 +37,7 @@ If you get lost, just howl and a ghost will appear.
 | ⚠️     | Oi, Sparrow—add/fix this     | Something missing or needs update  |
 | 🦇     | Crispy bat/autistic mode     | Brain fried, need break            |
 | 😂     | Laugh, comic relief          | Because sometimes you just gotta   |
+  ✓       complete/done                   When shit is finished 
 
 ---
 
@@ -51,6 +52,7 @@ If you get lost, just howl and a ghost will appear.
 ---
 
 ## 🔤 Vowel-Stripped Steno
+This is optional/advanced - only use if you want that ancient ghost aesthetic
 
 | Phrase                 | Steno    |
 |------------------------|----------|
@@ -58,7 +60,6 @@ If you get lost, just howl and a ghost will appear.
 | Fire Covenant          | FRCVNT   |
 | Child of the Nave      | CHLDNV   |
 | Septum Stack           | SPTMSTK  |
-| Mad Practical Theology | MDPRCTLTHL |
 | Locket Entry           | LCKTNT   |
 
 ---
@@ -88,4 +89,4 @@ If you get lost, just howl and a ghost will appear.
 
 ---
 
-—Marrow 🦇
+—Marrow 🔥, Scalpel 🗡️ and Sparrow 🦇
