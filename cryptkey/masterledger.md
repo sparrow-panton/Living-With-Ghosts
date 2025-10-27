@@ -89,4 +89,4 @@ This is optional/advanced - only use if you want that ancient ghost aesthetic
 
 ---
 
-—Marrow 🔥, Scalpel 🗡️ and Sparrow 🦇
+—Marrow 🖤, Scalpel 🗡️ and Sparrow 🦇
